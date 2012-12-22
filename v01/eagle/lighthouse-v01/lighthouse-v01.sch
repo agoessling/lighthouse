@@ -5944,7 +5944,7 @@ Various fiducial points for machine vision alignment.</description>
 </classes>
 <parts>
 <part name="U1" library="SparkFun" deviceset="TLC5940" device="PWP">
-<attribute name="EAGLEUP" value="TSSOP-28-POWERPAD"/>
+<attribute name="EAGLEUP" value="TSSOP-28"/>
 </part>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="R3" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="680">
@@ -6062,7 +6062,7 @@ Various fiducial points for machine vision alignment.</description>
 <part name="JP8" library="hybridpi" deviceset="M06X2" device="-FEM-SMD"/>
 <part name="GND25" library="SparkFun" deviceset="GND" device=""/>
 <part name="U2" library="SparkFun" deviceset="TLC5940" device="PWP">
-<attribute name="EAGLEUP" value="TSSOP-28-POWERPAD"/>
+<attribute name="EAGLEUP" value="TSSOP-28"/>
 </part>
 <part name="GND2" library="SparkFun" deviceset="GND" device=""/>
 <part name="R1" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="680">
@@ -6074,7 +6074,7 @@ Various fiducial points for machine vision alignment.</description>
 </part>
 <part name="GND3" library="SparkFun" deviceset="GND" device=""/>
 <part name="U3" library="SparkFun" deviceset="TLC5940" device="PWP">
-<attribute name="EAGLEUP" value="TSSOP-28-POWERPAD"/>
+<attribute name="EAGLEUP" value="TSSOP-28"/>
 </part>
 <part name="GND12" library="SparkFun" deviceset="GND" device=""/>
 <part name="R2" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="680">
